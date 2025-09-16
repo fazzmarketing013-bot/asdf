@@ -1,0 +1,5 @@
+{
+  "name": "Manager Pro",
+  "description": "A simple and elegant application to manage shared living expenses, calculate meal costs, and organize grocery shopping for a group. It includes a monthly grocery calendar and PDF report generation.",
+  "requestFramePermissions": []
+}
